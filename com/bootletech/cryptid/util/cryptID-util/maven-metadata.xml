@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bootletech.cryptid.util</groupId>
+  <artifactId>cryptID-util</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181004183811</lastUpdated>
+  </versioning>
+</metadata>
